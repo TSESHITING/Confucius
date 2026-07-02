@@ -11,7 +11,7 @@
 An interactive cultural installation built with **Unity**, combining **Kinect** motion tracking and **Arduino** hardware integration to recreate traditional Confucius Temple rituals.
 
 ### 🚀 專案展示
-* 🎬 **YouTube 成果影片**：[點此觀看 Demo 影片]([https://youtu.be/Z3bf3-9HBz0](https://youtu.be/-jh7n1lxqXE))
+* 🎬 **YouTube 成果影片**：[點此觀看 Demo 影片](https://youtu.be/-jh7n1lxqXE)
 * 📸 **專案主視覺**：
 <img width="3508" height="4961" alt="A3 - Copy" src="https://github.com/user-attachments/assets/692d1fb3-525f-4119-b952-e34a11e93079" />
 
@@ -32,7 +32,7 @@ An interactive cultural installation built with **Unity**, combining **Kinect** 
 An interactive cultural installation built with **Unity**, combining **Kinect** motion tracking and **Arduino** hardware integration to recreate traditional Confucius Temple rituals.
 
 ### 🚀 Live Demo & Visuals
-* 🎬 **YouTube Demo Video**: [Click here to watch the video]([https://youtu.be/Z3bf3-9HBz0](https://youtu.be/-jh7n1lxqXE))
+* 🎬 **YouTube Demo Video**: [Click here to watch the video](https://youtu.be/-jh7n1lxqXE)
 * 📸 **Project Key Visual**:
 <img width="3508" height="4961" alt="A3 - Copy" src="https://github.com/user-attachments/assets/692d1fb3-525f-4119-b952-e34a11e93079" />
 
